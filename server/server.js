@@ -104,7 +104,7 @@ client.connect()
 
 
   const openai = new OpenAI({
-    apiKey: "sk-proj-ZIGPbUQEVJEuKkfV79KqT3BlbkFJBmLGxi8bZfOBgPHQyyVA",
+    apiKey: "your-api-key",
   });
 
 
